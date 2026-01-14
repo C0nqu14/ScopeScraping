@@ -1,0 +1,5 @@
+intall in  your machine
+
+subfinder
+httpx
+waybackurls
