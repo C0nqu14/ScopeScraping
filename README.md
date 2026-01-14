@@ -54,7 +54,7 @@ Ela permite que você:
 Clone o repositório e instale dependências:
 
 ```bash
-git clone https://github.com/seu-usuario/ScopeScraping.git
+git clone https://github.com/C0nqu14/ScopeScraping.git
 cd ScopeScraping
 pip install -r requirements.txt
 ````
