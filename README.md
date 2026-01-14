@@ -168,5 +168,3 @@ MIT License. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 João Conquia – [joaomanuelconquia@gmail.com](mailto:joaomanuelconquia@gmail.com)
 LinkedIn: [www.linkedin.com/in/joão-conquia-6a7507239](https://www.linkedin.com/in/joão-conquia-6a7507239)
-
-```
